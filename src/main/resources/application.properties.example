@@ -1,0 +1,5 @@
+server.port=10100
+
+plc.ipAddress=
+plc.rack=
+plc.slot=
